@@ -2,7 +2,7 @@
 <h3 align="center">A passionate for learning full stack webapp developer from India</h3>
 <!-- <img align="right" alt="My image" width="400" src=""></img>
  -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praweensoni&label=Profile%20views&color=0e75b6&style=flat" alt="praweensoni" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=praweensoni&label=Profile%20views&color=0e75b6&style=flat" alt="praweensoni" /> </p> -->
 
 - 🌱 I’m currently learning **PHP**
 
@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/praween123pks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praween123pks" height="30" width="40" /></a>
 <a href="https://instagram.com/praween_123_pks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="praween_123_pks" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/coding mobile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding mobile" height="30" width="40" /></a>
+<a href="https://www.youtube.com/coding mobile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding mobile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
