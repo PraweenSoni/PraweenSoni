@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Praween Soni</h1>
+<h1 align="center">Namaste 🙏, I'm Praween Soni</h1>
 <h3 align="center">A passionate for learning full stack webapp developer from Bharat</h3>
 <!-- <img align="right" alt="My image" width="400" src=""></img>
- -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praweensoni&label=Profile%20views&color=0e75b6&style=flat" alt="praweensoni" /> </p>
+-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=praweensoni&label=Profile%20views&color=0e75b6&style=flat" alt="praweensoni"/> </p>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **PHP,PYTHON**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
