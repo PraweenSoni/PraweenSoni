@@ -1,4 +1,4 @@
-<h1 align="center">Namaste 🙏, I'm Praween Soni</h1>
+<h1 align="center">Hi 🙋‍♂️, I'm Praween Soni</h1>
 <!-- <h3 align="center">A passionate for learning full stack webapp developer</h3> -->
 <!-- <img align="right" alt="My image" width="400" src=""></img>
 -->
